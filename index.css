@@ -20,7 +20,14 @@
     text-align: center;
     margin-top: 40px;
 }
+.services{
+    background-image: url("images/s_image.jpg");
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px
 
+}
 .services h3{
     padding-top: 120px;
     
