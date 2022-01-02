@@ -1,0 +1,202 @@
+.welcome{
+    background-image: url("images/h_img.jpg");
+    width: 100%;
+    height: auto;
+    
+}
+.logo{
+    text-align: center;
+    padding-top: 200px;
+}
+.amazing{
+    text-align: center;
+    color: white;
+}
+.mouse{
+    text-align: center;
+    padding-top: 120px;
+}
+.about{
+    text-align: center;
+    margin-top: 40px;
+}
+.services{
+    background-image: url("images/s_image.jpg");
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px
+
+}
+.services h3{
+    padding-top: 120px;
+    
+}
+.services p{
+    padding-bottom: 120px;
+}
+.wedo{
+    
+}
+.wedo h2{
+    text-align:center;
+    margin-top: 2px;
+}
+.wedolist{
+    display: flex;
+    justify-content: space-around;
+}
+.wedolist ul{
+    display: flex;
+    
+}
+.wedolist li{
+    text-align: center;
+    list-style: none;
+    padding: 2px;
+    justify-content: space-around;
+    margin:80px;
+    margin-top: 20px;
+
+}
+.wedolist ul li p{
+    display: none;
+}
+.portfolio h2{
+    text-align: center;
+
+}
+.portfoliolist1{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 20px;
+}
+.portfoliolist1 img{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+
+#image4, #image3, #image2, #image1,#image5,#image6,#image7,#image8{
+    display: none;
+    position: relative;
+    text-align: center;
+    background-color: (250,245,245, 0.45);
+    font-weight: bold;
+    font-size: 35px;
+    bottom: 180;
+    opacity: 2.0;
+    color:blue;
+    margin-top: -100px;
+    box-shadow: 5px,5px,2px white;
+}
+.img4:hover{
+
+    opacity: 0.4;
+}
+.img3:hover{
+
+    opacity: 0.4;
+}
+.img2:hover{
+
+    opacity: 0.4;
+}
+.img1:hover{
+
+    opacity: 0.4;
+}
+.img5:hover{
+
+    opacity: 0.4;
+}
+.img6:hover{
+
+    opacity: 0.4;
+}
+.img7:hover{
+
+    opacity: 0.4;
+}
+.img8:hover{
+
+    opacity: 0.4;
+}
+
+
+
+.portfoliolist2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 20px;
+
+}
+.portfoliolist2 img{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+.contact{
+    background-image: url("images/c_image.jpg");
+    text-align: center;
+    width: 100%;
+    color: white;
+
+}
+.contact h2{
+    color: white;
+    padding-top: 100px;
+}
+.contact #name{
+    margin-right: 20px;
+    padding-left: 10px;
+    width: 250px;
+    background-color: transparent;
+    border: 1px solid white;
+    height: 20px;
+    color: white;
+    
+}
+.contact #email{
+    margin-right: 20px;
+    padding-left: 10px;
+    width: 250px;
+    margin-top: 100px;
+    background-color: transparent;
+    border: 1px solid white;
+    height: 20px;
+
+}
+ .contact input{
+    height: 60px;
+    width: 80px;
+    background-color: transparent;
+    color:white;
+
+}
+
+.contact #text{
+width: 540px;
+height: 150px;
+padding: 10px;
+border: 1px solid white;
+margin-top: 60px;
+margin-bottom: 120px;
+background-color: transparent;
+}
+.footer{
+
+}
+.footerlist ul{
+    display: flex;
+    margin-left: 250px;
+
+}
+.footerlist li{
+    margin: 10px;
+    list-style: none;
+    margin-top: 50px;
+}
