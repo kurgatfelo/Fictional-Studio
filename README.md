@@ -1,12 +1,12 @@
 # DELANI STUDIO
-## This is felix kibet kurgat portfolio
-## By felix kibet kurgat**
+![Website image](https://github.com/kurgatfelo/Fictional-Studio/blob/master/images/Screenshot%20from%202022-01-02%2015-51-03.png)
+## This is DELANI STUDIO
+## By FELIX KIBET KURGAT*
 ## Description
-It describes about the persona i;e
+## It describes about what the Delani Studio does;
 	*The name
-	*The education journey
+	*The services they offer to their clients
 	*The experience in the job market or in the field of technology
-	*The Hobbies and skills
 	*The projects developed
 ## The aim of this is
 	*To advertise its projects
@@ -17,7 +17,10 @@ This site is hosted in gh-pages
 ## Known Bugs
 This being a simple ui it has no known bugs though updates are always being made as per user feedback to maximize on productivity
 ## Technologies Used
-This site only uses html css and javascript for implementation 
+*HTML
+*CSS
+*JAVASCRIPT
+*JQuerry
 ## Support and contact details
 Incase of any issues contact me on:
 felix.kurgat@student.moringa.com
