@@ -1,8 +1,10 @@
-
-.logo{
-    text-align: center;
-    padding-top: 200px;
+.welcome{
+    background-image: url("images/h_img.jpg");
+    width: 100%;
+    height: auto;
+    
 }
+
 .amazing{
     text-align: center;
     color: white;
