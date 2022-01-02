@@ -12,11 +12,11 @@
     text-align: center;
     color: white;
 }
-
-.about{
+.mouse{
     text-align: center;
-    margin-top: 40px;
+    padding-top: 120px;
 }
+
 .services{
     background-image: url("images/s_image.jpg");
     color: white;
